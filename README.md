@@ -1,59 +1,77 @@
-# SAMYAK CHHAJED
+<div align="center">
 
-### Cloud & Infrastructure Engineering
+# ☁️ CLOUD INFRASTRUCTURE ENGINEERING
 
-Building and experimenting with cloud infrastructure, automation,
-containerized systems, and ML infrastructure.
+### Manufacturing Engineering Student at COEP
 
----
+**Cloud Infrastructure · DevOps · Kubernetes · MLOps**
 
-## CURRENT FOCUS
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
-- AWS infrastructure
-- Terraform
-- GitHub Actions
-- Docker
-- Kubernetes
-- Infrastructure observability
-- ML infrastructure
+</div>
 
 ---
 
-## ENGINEERING WORK
+## Profile
 
-### 01 — Cloud Resource Governance Automation
-Tag-based AWS resource lifecycle automation using EventBridge and Lambda.
-
-### 02 — ML Deployment Comparison
-SageMaker vs Lambda under controlled load, latency and cost experiments.
-
-### 03 — Step Functions Document Pipeline
-S3 → Textract → Step Functions → DynamoDB / SNS.
-
-### 04 — Serverless ML Data Pipeline
-S3 → Glue → SageMaker Autopilot → Athena.
-
-### 05 — Kubernetes Comparison
-EKS vs self-managed k3s using the same containerized workload.
+I'm a Manufacturing Engineering student at COEP, building my technical career around Cloud Infrastructure and DevOps, with a growing focus on Kubernetes, Platform Engineering, and MLOps. I focus on learning by building systems, working with real cloud infrastructure, and understanding how the pieces work together.
 
 ---
 
-## ENGINEERING APPROACH
+## Current Direction
 
-Build → automate → break → measure → document
+### Cloud Infrastructure Engineer
 
-I focus on controlled experiments and operational trade-offs
-rather than simply deploying applications.
+**Cloud Infrastructure · DevOps · Kubernetes · Infrastructure as Code · CI/CD · MLOps**
 
----
-
-## TOOLBOX
-
-AWS · Terraform · GitHub Actions · Docker · Kubernetes · Python · Prometheus · Grafana · SQL · Machine Learning
+My current cloud focus is AWS.
 
 ---
 
+## My Stack
 
-<!--
-**samyakchhajed/samyakchhajed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+| ☁️ Cloud      | ⚙️ Infrastructure & DevOps | ☸️ Kubernetes & Systems |
+| :------------ | :------------------------- | :---------------------- |
+| AWS           | Terraform                  | Kubernetes              |
+| EC2           | Docker                     | k3s                     |
+| S3            | Amazon ECR                 | EKS                     |
+| Lambda        | GitHub Actions             | Prometheus              |
+| ECS / Fargate | CI/CD                      | Grafana                 |
+| DynamoDB      | Infrastructure as Code     | Distributed Systems     |
+| SQS           |                            | Python                  |
+| SageMaker     |                            | MLOps                   |
+| IAM           |                            |                         |
+
+---
+
+## My Work Done
+
+### `aws-projects`
+
+Hands-on AWS engineering work covering: EC2 · Lambda · ECS/Fargate · Docker · Amazon ECR · Python
+
+---
+
+## Currently Building
+
+### 🔬 ML Model & Deployment Comparison
+
+AWS · MLOps · DevOps
+
+---
+
+### ☸️ Kubernetes Infrastructure Experiment Platform
+
+AWS · Kubernetes · DevOps
+
+---
+
+<div align="center">
+
+**AWS · Cloud Infrastructure · DevOps · Kubernetes · MLOps**
+
+</div>
