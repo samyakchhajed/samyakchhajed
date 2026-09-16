@@ -49,6 +49,4 @@ AWS · Kubernetes · DevOps
 
 <div align="center">
 
-**AWS · Cloud Infrastructure · DevOps · Kubernetes · MLOps**
-
 </div>
