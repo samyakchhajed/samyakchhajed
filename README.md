@@ -31,7 +31,7 @@ Infrastructure as Code - Terraform
 CI/CD - GitHub Actions
 Containerization - Docker & Kubernetes
 Observability & Monitoring - Prometheus & Grafana
-Coding Language - Python
+Programming Language - Python
 Machine Learning - Scikit-learn
 
 ## My Work Done
