@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ CLOUD INFRASTRUCTURE ENGINEERING
+# CLOUD INFRASTRUCTURE ENGINEERING
 
 ### Manufacturing Engineering Student at COEP
 
@@ -14,61 +14,38 @@
 
 </div>
 
----
-
 ## Profile
 
 I'm a Manufacturing Engineering student at COEP, building my technical career around Cloud Infrastructure and DevOps, with a growing focus on Kubernetes, Platform Engineering, and MLOps. I focus on learning by building systems, working with real cloud infrastructure, and understanding how the pieces work together.
-
----
 
 ## Current Direction
 
 ### Cloud Infrastructure Engineer
 
-**Cloud Infrastructure · DevOps · Kubernetes · Infrastructure as Code · CI/CD · MLOps**
-
-My current cloud focus is AWS.
-
----
+**Cloud Infrastructure · AWS (Current cloud focus) · DevOps · Kubernetes · Infrastructure as Code · CI/CD · MLOps**
 
 ## My Stack
 
-| ☁️ Cloud      | ⚙️ Infrastructure & DevOps | ☸️ Kubernetes & Systems |
-| :------------ | :------------------------- | :---------------------- |
-| AWS           | Terraform                  | Kubernetes              |
-| EC2           | Docker                     | k3s                     |
-| S3            | Amazon ECR                 | EKS                     |
-| Lambda        | GitHub Actions             | Prometheus              |
-| ECS / Fargate | CI/CD                      | Grafana                 |
-| DynamoDB      | Infrastructure as Code     | Distributed Systems     |
-| SQS           |                            | Python                  |
-| SageMaker     |                            | MLOps                   |
-| IAM           |                            |                         |
-
----
+Cloud - AWS
+Infrastructure as Code - Terraform
+CI/CD - GitHub Actions
+Containerization - Docker & Kubernetes
+Observability & Monitoring - Prometheus & Grafana
+Coding Language - Python
+Machine Learning - Scikit-learn
 
 ## My Work Done
 
-### `aws-projects`
-
+### `aws-projects` 
 Hands-on AWS engineering work covering: EC2 · Lambda · ECS/Fargate · Docker · Amazon ECR · Python
-
----
 
 ## Currently Building
 
 ### 🔬 ML Model & Deployment Comparison
-
 AWS · MLOps · DevOps
 
----
-
 ### ☸️ Kubernetes Infrastructure Experiment Platform
-
 AWS · Kubernetes · DevOps
-
----
 
 <div align="center">
 
