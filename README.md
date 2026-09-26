@@ -39,13 +39,16 @@ Machine Learning - Scikit-learn
 ### `aws-projects` 
 Hands-on AWS engineering work covering: EC2 · Lambda · ECS/Fargate · Docker · Amazon ECR · Python
 
+### `secure-cloud-storage`
+Serverless secure file storage on AWS — Cognito · Lambda · DynamoDB · S3 · API Gateway · Terraform · GitHub Actions OIDC. Deep dive into keyless CI/CD, IAM/OIDC debugging, and hexagonal architecture. Full engineering journey and known issues documented in-repo.
+
 ## Currently Building
 
 ### 🔬 ML Model & Deployment Comparison
-AWS · MLOps · DevOps
+AWS · MLOps · DevOps — code complete, deployment in progress
 
 ### ☸️ Kubernetes Infrastructure Experiment Platform
-AWS · Kubernetes · DevOps
+AWS · Kubernetes · DevOps — planned, build starting after ML platform
 
 <div align="center">
 
