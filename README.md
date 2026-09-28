@@ -4,7 +4,7 @@
 
 ### Manufacturing Engineering Student at COEP
 
-**Cloud Infrastructure (AWS) · DevOps · Kubernetes · **
+**Cloud Infrastructure (AWS) · DevOps · Kubernetes**
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
