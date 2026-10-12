@@ -43,7 +43,5 @@ Serverless secure file storage on AWS — Cognito · Lambda · DynamoDB · S3 ·
 ### `ML-Model-and-Deployment-Comparison`
 Serverless ML benchmarking platform on AWS — Lambda · API Gateway · DynamoDB · S3 · SageMaker · Terraform · GitHub Actions OIDC. Compares a user-supplied scikit-learn model across serving paths. The Lambda path was benchmarked end to end; SageMaker Serverless and Autopilot were built but blocked by new-account limits. Deployment log and limitations documented in-repo.
 
-## Currently Building
-
-### ☸️ Kubernetes Infrastructure Experiment Platform
-AWS · Kubernetes · DevOps — planned
+### football-life-simulation
+Football career simulation on AWS — Python · FastAPI · Lambda · S3 · DynamoDB · EKS · Docker · ECR · Terraform · GitHub Actions OIDC. A deterministic simulation engine behind a stateless Lambda API with a static S3 frontend, plus a Kubernetes (EKS) batch pipeline that pre-generates simulated worlds. The EKS batch generated 2 worlds. The four-layer Terraform setup and 18 deployment failures are documented in-repo.
